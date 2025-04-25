@@ -5,10 +5,10 @@
 <table border="1" cellpadding="10" cellspacing="0">
     <tr>
         <th>Invite Code</th>
-        <th>ACCOUNT</th>
+        <th>THANKS</th>
     </tr>
     <tr>
-        <td><strong>account</strong></td>
+        <td><strong>THANKS</strong></td>
         <td><a href="https://axiom.trade/@thanks" target="_blank">Axiom Trade Exclusive Early Access & Reduced Trading Fees</a></td>
     </tr>
 </table>
@@ -32,7 +32,7 @@
 <p>Axiom Trade is currently in an invite-only early access phase. Follow these steps to join:</p>
 <ol>
     <li><strong>Visit Axiom Trade</strong> – Go to <a href="https://axiom.trade/@thanks" target="_blank">Axiom Trade</a>.</li>
-    <li><strong>Enter the Invite Code</strong> – Use <strong>account</strong> to unlock access and enjoy reduced trading fees.</li>
+    <li><strong>Enter the Invite Code</strong> – Use <strong>thanks</strong> to unlock access and enjoy reduced trading fees.</li>
     <li><strong>Set Up Your Account</strong> – Connect your wallet and configure your trading preferences.</li>
     <li><strong>Start Trading</strong> – Utilize Axiom’s advanced tools to enhance your trading experience.</li>
 </ol>
@@ -40,4 +40,4 @@
 
 <h2>Final Thoughts</h2>
 <p>Axiom Trade is revolutionizing on-chain trading with security, speed, and advanced automation. Whether you're a beginner or a seasoned trader, its powerful features provide an unmatched trading experience.</p>
-<p>🔥 <strong>Sign up today with invite code "account" and experience the future of decentralized trading!</strong> 🚀</p>
+<p>🔥 <strong>Sign up today with invite code "thanks" and experience the future of decentralized trading!</strong> 🚀</p>
